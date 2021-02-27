@@ -1,0 +1,4 @@
+﻿  PodobedHelp.cpp
+C:\Users\hp\source\repos\PodobedHelp\PodobedHelp\PodobedHelp.cpp(52,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\PodobedHelp\PodobedHelp\PodobedHelp.cpp(92,47): warning C4018: <: несоответствие типов со знаком и без знака
+  PodobedHelp.vcxproj -> C:\Users\hp\source\repos\PodobedHelp\Debug\PodobedHelp.exe
